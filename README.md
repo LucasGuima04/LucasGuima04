@@ -13,14 +13,18 @@
   </a>
 </p>
 
-📊 Linguagens mais utilizadas
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuima04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Linguagens mais utilizadas no GitHub"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuima04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LucasGuima04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+    </td>
+  </tr>
+</table>
 
 💻 Desenvolvedor em evolução | ADVPL | TOTVS Protheus | SQL Server | Python | C
 
