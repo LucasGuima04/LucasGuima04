@@ -21,7 +21,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuima04&layout=compact&card_width=320&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasGuima04&card_width=320&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=LucasGuima04&card_width=320&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
     </td>
   </tr>
 </table>
