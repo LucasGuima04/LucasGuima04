@@ -24,23 +24,8 @@
 
 💻 Desenvolvedor em evolução | ADVPL | TOTVS Protheus | SQL Server | Python | C
 
-Sou apaixonado por tecnologia, programação e resolução de problemas. Atualmente, meu foco está no desenvolvimento de soluções para o ERP TOTVS Protheus, utilizando ADVPL, explorando rotinas do sistema, consultas SQL e ferramentas que auxiliam no desenvolvimento de software. Estou cursando Ciências da Computação na Unesp em Rio Claro.
-
+Sou apaixonado por tecnologia, programação e resolução de problemas desde pequeno. Atualmente, meu foco está no desenvolvimento de soluções para o ERP TOTVS Protheus, utilizando ADVPL, explorando rotinas do sistema, consultas SQL e ferramentas que auxiliam no desenvolvimento de software. Estou cursando Ciências da Computação na Unesp em Rio Claro.
 Busco aprimorar continuamente minhas habilidades técnicas, desenvolver soluções eficientes e transformar desafios do dia a dia em oportunidades de aprendizado.
-
-🚀 Sobre mim
-
-💻 Estudando Ciências da Computação e desenvolvendo soluções com ADVPL.
-
-🏢 Explorando o ecossistema TOTVS Protheus e suas possibilidades de customização.
-
-🗄️ Trabalhando com conceitos de SQL Server,consultas SQL, automatização de tarefas em Python e programas em C.
-
-🛠️ Utilizando Visual Studio Code como ambiente de desenvolvimento.
-
-🌱 Aprimorando meus conhecimentos em programação, versionamento e boas práticas.
-
-📚 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
 
 🧰 Tecnologias e ferramentas
 
@@ -54,24 +39,6 @@ Busco aprimorar continuamente minhas habilidades técnicas, desenvolver soluçõ
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-Áreas de interesse:
-
-Desenvolvimento de rotinas e customizações para TOTVS Protheus.
-
-Programação com ADVPL, Python e C.
-
-Consultas SQL e manipulação de dados.
-
-Automação de tarefas e resolução de problemas.
-
-Versionamento de código com Git e GitHub.
-
-📂 Projetos em destaque
-
-🚀 ADVPL-Creations
-
-Repositório dedicado a projetos, fontes e experimentos em ADVPL para o ecossistema TOTVS Protheus.
 
 📫 Vamos nos conectar?
 
